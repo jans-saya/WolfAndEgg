@@ -1,5 +1,5 @@
 # WolfAndEgg
 git clone https://github.com/jans-saya/WolfAndEgg.git
-cd WolfEgg
+cd WolfAndEgg
 pip3 install requirements.txt
 python3 main.py
